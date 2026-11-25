@@ -1,0 +1,4 @@
+# 音频转 MIDI 工具依赖
+# 推荐 Python 3.9 - 3.11（basic-pitch / TensorFlow 兼容性最佳）
+# 安装命令：python -m pip install -r requirements.txt
+basic-pitch==0.4.0
